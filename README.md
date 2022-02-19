@@ -1,9 +1,9 @@
 # TwitterBot Version: Beta
 
 Simple Twitter Bot with the following features:
-    * Monitor RSS feeds and create tweets from RSS entries
-    * Automatic retweet of monitored twitter accounts
-    * Human emulation
+* Monitor RSS feeds and create tweets from RSS entries
+* Automatic retweet of monitored twitter accounts
+* Human emulation
 
 [![platform](https://img.shields.io/badge/platform-linux-green)](https://ubuntu.com/)
 [![python](https://img.shields.io/badge/python-3.9-blue.svg?logo=python&labelColor=yellow)](https://www.python.org/downloads/)
