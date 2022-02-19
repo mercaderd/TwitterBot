@@ -1,1 +1,1 @@
-~/TwitterBot/venv/bin/python3 ~/TwitterBot/main.py
+. venv/bin/activate && python3 main.py
