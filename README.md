@@ -48,7 +48,14 @@ usernames=AEPD_es,osiseguridad,incibe_cert,EU_EDPB
 ``` 
 Pulsa Ctrl+x para salir y guarda los cambios.
 
-5. Ejecuta la aplicación:
+5. Crea un entorno virtual, actívalo e instala las dependencias
+```
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+6. Ejecuta la aplicación:
 ``` 
 ./run.sh
 ```
