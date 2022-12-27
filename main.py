@@ -86,6 +86,7 @@ def main():
     tweetshash = init_hashes(tweetshashesfile)
 
     while True:
+        random.shuffle(f)
         for line in f:
             # print str(datetime.now())
             logstr = str(f.index(line))
